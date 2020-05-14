@@ -1,0 +1,5 @@
+
+10 : Elapsed Time (COUNT MPI_Reduce) = 0.000221
+10 : MPI_Reduce (subtrees at depth==5) COUNT(elements < 0.50) = 131364
+
+10 : SPEEDUP MPI vs OpenMP 1.03

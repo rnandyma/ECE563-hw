@@ -1,0 +1,2 @@
+The number of threads is quadrupled, from 5 to 20 so it makes it faster. I analysed that when the chunk size is 50 and we are iterating only 100 times we only spawn 2 threads irrespective of the number of max threads set (obviuosly max threads should be more than 2). So increasing the number of threads does not effect when we keep the chunk size of 50 and number of interation 100.
+If we keep the chunk size to 5 then we can see appreciable amount of reduction in execution time when number of max threads is increased from 5 to 20 but still guided is the fastest.

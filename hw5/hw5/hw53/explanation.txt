@@ -1,0 +1,1 @@
+For fairly obvious reason the parallel one is faster than the sequential code.

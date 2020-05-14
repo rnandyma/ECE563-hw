@@ -1,0 +1,1 @@
+I found out that the dynamic default configuration and guided configuration of scheduling are pretty close in timing but guided is a tad bit faster than the dynamic default configuration

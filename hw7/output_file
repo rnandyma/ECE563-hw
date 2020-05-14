@@ -1,0 +1,342 @@
+//////////////////////////////////////////////new data input/////////////////////////////////
+the number of procs is 7 , array of size 101, chunk_size for block_cyclic is 3
+/////////////////////////////////////////////////cyclic distribution/////////////////////////////////////////////
+0 : [0 : 98 : 7]
+1 : [1 : 99 : 7]
+2 : [2 : 100 : 7]
+3 : [3 : 94 : 7]
+4 : [4 : 95 : 7]
+5 : [5 : 96 : 7]
+6 : [6 : 97 : 7]
+/////////////////////////////////////////block distribution//////////////////////////////////////
+0 : [0 : 14 : 1]
+1 : [15 : 29 : 1]
+2 : [30 : 44 : 1]
+3 : [45 : 58 : 1]
+4 : [59 : 72 : 1]
+5 : [73 : 86 : 1]
+6 : [87 : 100 : 1]
+/////////////////////////////////////////block cyclic distribution//////////////////////////////////////////
+processor 0 contains the element of index 0
+processor 0 contains the element of index 1
+processor 0 contains the element of index 2
+processor 0 contains the element of index 21
+processor 0 contains the element of index 22
+processor 0 contains the element of index 23
+processor 0 contains the element of index 42
+processor 0 contains the element of index 43
+processor 0 contains the element of index 44
+processor 0 contains the element of index 63
+processor 0 contains the element of index 64
+processor 0 contains the element of index 65
+processor 0 contains the element of index 84
+processor 0 contains the element of index 85
+processor 0 contains the element of index 86
+processor 1 contains the element of index 3
+processor 1 contains the element of index 4
+processor 1 contains the element of index 5
+processor 1 contains the element of index 24
+processor 1 contains the element of index 25
+processor 1 contains the element of index 26
+processor 1 contains the element of index 45
+processor 1 contains the element of index 46
+processor 1 contains the element of index 47
+processor 1 contains the element of index 66
+processor 1 contains the element of index 67
+processor 1 contains the element of index 68
+processor 1 contains the element of index 87
+processor 1 contains the element of index 88
+processor 1 contains the element of index 89
+processor 2 contains the element of index 6
+processor 2 contains the element of index 7
+processor 2 contains the element of index 8
+processor 2 contains the element of index 27
+processor 2 contains the element of index 28
+processor 2 contains the element of index 29
+processor 2 contains the element of index 48
+processor 2 contains the element of index 49
+processor 2 contains the element of index 50
+processor 2 contains the element of index 69
+processor 2 contains the element of index 70
+processor 2 contains the element of index 71
+processor 2 contains the element of index 90
+processor 2 contains the element of index 91
+processor 2 contains the element of index 92
+processor 3 contains the element of index 9
+processor 3 contains the element of index 10
+processor 3 contains the element of index 11
+processor 3 contains the element of index 30
+processor 3 contains the element of index 31
+processor 3 contains the element of index 32
+processor 3 contains the element of index 51
+processor 3 contains the element of index 52
+processor 3 contains the element of index 53
+processor 3 contains the element of index 72
+processor 3 contains the element of index 73
+processor 3 contains the element of index 74
+processor 3 contains the element of index 93
+processor 3 contains the element of index 94
+processor 3 contains the element of index 95
+processor 4 contains the element of index 12
+processor 4 contains the element of index 13
+processor 4 contains the element of index 14
+processor 4 contains the element of index 33
+processor 4 contains the element of index 34
+processor 4 contains the element of index 35
+processor 4 contains the element of index 54
+processor 4 contains the element of index 55
+processor 4 contains the element of index 56
+processor 4 contains the element of index 75
+processor 4 contains the element of index 76
+processor 4 contains the element of index 77
+processor 4 contains the element of index 96
+processor 4 contains the element of index 97
+processor 4 contains the element of index 98
+processor 5 contains the element of index 15
+processor 5 contains the element of index 16
+processor 5 contains the element of index 17
+processor 5 contains the element of index 36
+processor 5 contains the element of index 37
+processor 5 contains the element of index 38
+processor 5 contains the element of index 57
+processor 5 contains the element of index 58
+processor 5 contains the element of index 59
+processor 5 contains the element of index 78
+processor 5 contains the element of index 79
+processor 5 contains the element of index 80
+processor 5 contains the element of index 99
+processor 5 contains the element of index 100
+processor 5 contains the element of index 101
+processor 6 contains the element of index 18
+processor 6 contains the element of index 19
+processor 6 contains the element of index 20
+processor 6 contains the element of index 39
+processor 6 contains the element of index 40
+processor 6 contains the element of index 41
+processor 6 contains the element of index 60
+processor 6 contains the element of index 61
+processor 6 contains the element of index 62
+processor 6 contains the element of index 81
+processor 6 contains the element of index 82
+processor 6 contains the element of index 83
+//////////////////////////////////////////////new data input/////////////////////////////////
+the number of procs is 8 , array of size 200, chunk_size for block_cyclic is 5
+/////////////////////////////////////////////////cyclic distribution/////////////////////////////////////////////
+0 : [0 : 192 : 8]
+1 : [1 : 193 : 8]
+2 : [2 : 194 : 8]
+3 : [3 : 195 : 8]
+4 : [4 : 196 : 8]
+5 : [5 : 197 : 8]
+6 : [6 : 198 : 8]
+7 : [7 : 199 : 8]
+/////////////////////////////////////////block distribution//////////////////////////////////////
+0 : [0 : 24 : 1]
+1 : [25 : 49 : 1]
+2 : [50 : 74 : 1]
+3 : [75 : 99 : 1]
+4 : [100 : 124 : 1]
+5 : [125 : 149 : 1]
+6 : [150 : 174 : 1]
+7 : [175 : 199 : 1]
+/////////////////////////////////////////block cyclic distribution//////////////////////////////////////////
+processor 0 contains the element of index 0
+processor 0 contains the element of index 1
+processor 0 contains the element of index 2
+processor 0 contains the element of index 3
+processor 0 contains the element of index 4
+processor 0 contains the element of index 40
+processor 0 contains the element of index 41
+processor 0 contains the element of index 42
+processor 0 contains the element of index 43
+processor 0 contains the element of index 44
+processor 0 contains the element of index 80
+processor 0 contains the element of index 81
+processor 0 contains the element of index 82
+processor 0 contains the element of index 83
+processor 0 contains the element of index 84
+processor 0 contains the element of index 120
+processor 0 contains the element of index 121
+processor 0 contains the element of index 122
+processor 0 contains the element of index 123
+processor 0 contains the element of index 124
+processor 0 contains the element of index 160
+processor 0 contains the element of index 161
+processor 0 contains the element of index 162
+processor 0 contains the element of index 163
+processor 0 contains the element of index 164
+processor 1 contains the element of index 5
+processor 1 contains the element of index 6
+processor 1 contains the element of index 7
+processor 1 contains the element of index 8
+processor 1 contains the element of index 9
+processor 1 contains the element of index 45
+processor 1 contains the element of index 46
+processor 1 contains the element of index 47
+processor 1 contains the element of index 48
+processor 1 contains the element of index 49
+processor 1 contains the element of index 85
+processor 1 contains the element of index 86
+processor 1 contains the element of index 87
+processor 1 contains the element of index 88
+processor 1 contains the element of index 89
+processor 1 contains the element of index 125
+processor 1 contains the element of index 126
+processor 1 contains the element of index 127
+processor 1 contains the element of index 128
+processor 1 contains the element of index 129
+processor 1 contains the element of index 165
+processor 1 contains the element of index 166
+processor 1 contains the element of index 167
+processor 1 contains the element of index 168
+processor 1 contains the element of index 169
+processor 2 contains the element of index 10
+processor 2 contains the element of index 11
+processor 2 contains the element of index 12
+processor 2 contains the element of index 13
+processor 2 contains the element of index 14
+processor 2 contains the element of index 50
+processor 2 contains the element of index 51
+processor 2 contains the element of index 52
+processor 2 contains the element of index 53
+processor 2 contains the element of index 54
+processor 2 contains the element of index 90
+processor 2 contains the element of index 91
+processor 2 contains the element of index 92
+processor 2 contains the element of index 93
+processor 2 contains the element of index 94
+processor 2 contains the element of index 130
+processor 2 contains the element of index 131
+processor 2 contains the element of index 132
+processor 2 contains the element of index 133
+processor 2 contains the element of index 134
+processor 2 contains the element of index 170
+processor 2 contains the element of index 171
+processor 2 contains the element of index 172
+processor 2 contains the element of index 173
+processor 2 contains the element of index 174
+processor 3 contains the element of index 15
+processor 3 contains the element of index 16
+processor 3 contains the element of index 17
+processor 3 contains the element of index 18
+processor 3 contains the element of index 19
+processor 3 contains the element of index 55
+processor 3 contains the element of index 56
+processor 3 contains the element of index 57
+processor 3 contains the element of index 58
+processor 3 contains the element of index 59
+processor 3 contains the element of index 95
+processor 3 contains the element of index 96
+processor 3 contains the element of index 97
+processor 3 contains the element of index 98
+processor 3 contains the element of index 99
+processor 3 contains the element of index 135
+processor 3 contains the element of index 136
+processor 3 contains the element of index 137
+processor 3 contains the element of index 138
+processor 3 contains the element of index 139
+processor 3 contains the element of index 175
+processor 3 contains the element of index 176
+processor 3 contains the element of index 177
+processor 3 contains the element of index 178
+processor 3 contains the element of index 179
+processor 4 contains the element of index 20
+processor 4 contains the element of index 21
+processor 4 contains the element of index 22
+processor 4 contains the element of index 23
+processor 4 contains the element of index 24
+processor 4 contains the element of index 60
+processor 4 contains the element of index 61
+processor 4 contains the element of index 62
+processor 4 contains the element of index 63
+processor 4 contains the element of index 64
+processor 4 contains the element of index 100
+processor 4 contains the element of index 101
+processor 4 contains the element of index 102
+processor 4 contains the element of index 103
+processor 4 contains the element of index 104
+processor 4 contains the element of index 140
+processor 4 contains the element of index 141
+processor 4 contains the element of index 142
+processor 4 contains the element of index 143
+processor 4 contains the element of index 144
+processor 4 contains the element of index 180
+processor 4 contains the element of index 181
+processor 4 contains the element of index 182
+processor 4 contains the element of index 183
+processor 4 contains the element of index 184
+processor 5 contains the element of index 25
+processor 5 contains the element of index 26
+processor 5 contains the element of index 27
+processor 5 contains the element of index 28
+processor 5 contains the element of index 29
+processor 5 contains the element of index 65
+processor 5 contains the element of index 66
+processor 5 contains the element of index 67
+processor 5 contains the element of index 68
+processor 5 contains the element of index 69
+processor 5 contains the element of index 105
+processor 5 contains the element of index 106
+processor 5 contains the element of index 107
+processor 5 contains the element of index 108
+processor 5 contains the element of index 109
+processor 5 contains the element of index 145
+processor 5 contains the element of index 146
+processor 5 contains the element of index 147
+processor 5 contains the element of index 148
+processor 5 contains the element of index 149
+processor 5 contains the element of index 185
+processor 5 contains the element of index 186
+processor 5 contains the element of index 187
+processor 5 contains the element of index 188
+processor 5 contains the element of index 189
+processor 6 contains the element of index 30
+processor 6 contains the element of index 31
+processor 6 contains the element of index 32
+processor 6 contains the element of index 33
+processor 6 contains the element of index 34
+processor 6 contains the element of index 70
+processor 6 contains the element of index 71
+processor 6 contains the element of index 72
+processor 6 contains the element of index 73
+processor 6 contains the element of index 74
+processor 6 contains the element of index 110
+processor 6 contains the element of index 111
+processor 6 contains the element of index 112
+processor 6 contains the element of index 113
+processor 6 contains the element of index 114
+processor 6 contains the element of index 150
+processor 6 contains the element of index 151
+processor 6 contains the element of index 152
+processor 6 contains the element of index 153
+processor 6 contains the element of index 154
+processor 6 contains the element of index 190
+processor 6 contains the element of index 191
+processor 6 contains the element of index 192
+processor 6 contains the element of index 193
+processor 6 contains the element of index 194
+processor 7 contains the element of index 35
+processor 7 contains the element of index 36
+processor 7 contains the element of index 37
+processor 7 contains the element of index 38
+processor 7 contains the element of index 39
+processor 7 contains the element of index 75
+processor 7 contains the element of index 76
+processor 7 contains the element of index 77
+processor 7 contains the element of index 78
+processor 7 contains the element of index 79
+processor 7 contains the element of index 115
+processor 7 contains the element of index 116
+processor 7 contains the element of index 117
+processor 7 contains the element of index 118
+processor 7 contains the element of index 119
+processor 7 contains the element of index 155
+processor 7 contains the element of index 156
+processor 7 contains the element of index 157
+processor 7 contains the element of index 158
+processor 7 contains the element of index 159
+processor 7 contains the element of index 195
+processor 7 contains the element of index 196
+processor 7 contains the element of index 197
+processor 7 contains the element of index 198
+processor 7 contains the element of index 199

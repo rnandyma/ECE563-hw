@@ -1,0 +1,22 @@
+before parfor tid: 0, tid address: 0x7ffc4f121494
+tid: 13, tid address: 0x7ffc4f121494
+tid: 1, tid address: 0x7ffc4f121494
+tid: 4, tid address: 0x7ffc4f121494
+tid: 4, tid address: 0x7ffc4f121494
+tid: 4, tid address: 0x7ffc4f121494
+tid: 17, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 18, tid address: 0x7ffc4f121494
+tid: 19, tid address: 0x7ffc4f121494
+after parfor tid: 19, tid address: 0x7ffc4f121494

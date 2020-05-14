@@ -1,0 +1,3 @@
+For the sequential part there is no additional overhead of thread creations and all the elements of array are localized in a cache of a single core and the single thread accesses the continuous memeory location.
+
+For the paralle code the overhead of thread creation makes it longer to execute. The locality of the elements is not defined which might result in cache misses, mainly coherence misses.
